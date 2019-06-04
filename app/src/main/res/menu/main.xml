@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+   <item
+       android:id="@+id/home"
+       android:title="Home"
+       android:icon="@drawable/home"/>
+   <item
+    android:id="@+id/world"
+    android:title="World"
+    android:icon="@drawable/earth"/>
+
+   <item
+       android:id="@+id/sport"
+       android:title="Sport"
+       android:icon="@drawable/sport"/>
+
+   <item
+       android:id="@+id/pol"
+       android:title="Politics"
+       android:icon="@drawable/politics"/>
+
+   <item
+       android:id="@+id/movie"
+       android:title="Movie"
+       android:icon="@drawable/movie"/>
+
+
+
+
+
+</menu>
